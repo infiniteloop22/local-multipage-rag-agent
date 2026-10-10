@@ -1,0 +1,7 @@
+opencv-python
+numpy
+easyocr
+chromadb
+ollama
+pdf2image
+pydantic
